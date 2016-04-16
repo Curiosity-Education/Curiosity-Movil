@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/pre-dexed/debug/classes-286d79806427127164003c61c89768b957b6356d.jar" />
+    </item>
+    <item
+        jar="/Users/Gerson/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/pre-dexed/debug/glide-3.6.1-8bd2adbcad4ab3edb2cac505020cd2520dfaee8b.jar" />
+    </item>
+    <item
+        jar="/Users/Gerson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-30b3ac049a4d82f71499bb014dd2bf630c526284.jar" />
+    </item>
+    <item
+        jar="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-e759ba493cfd0c74ad3bc18631e63e6c7aab1119.jar" />
+    </item>
+    <item
+        jar="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/pre-dexed/debug/classes-6e1c31ac0bddd584fe8227bbb9d53797545d01d2.jar" />
+    </item>
+    <item
+        jar="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/pre-dexed/debug/classes-796dcfbb116cc195dd1cdacb407ff94ca5b90f43.jar" />
+    </item>
+    <item
+        jar="/Users/Gerson/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/pre-dexed/debug/library-1.0.19-926613d057fbb06807d389ac1bfa86dfeea0fc26.jar" />
+    </item>
+    <item
+        jar="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/pre-dexed/debug/classes-f9b1c9b91e03e424f424e2681067b08dadaab7e5.jar" />
+    </item>
+    <item
+        jar="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/Gerson/Desktop/Curiosity/app/build/intermediates/pre-dexed/debug/classes-f7bf049f48e4d1121f251d26acdb6a6729fa07b9.jar" />
+    </item>
+
+</items>

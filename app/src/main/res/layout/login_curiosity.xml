@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:paddingLeft="@dimen/ancho_login"
+    android:paddingRight="@dimen/ancho_login"
+    android:background="@drawable/principal_layout_curiosity"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="170dp"
+                android:layout_marginTop="50dp"
+                android:layout_gravity="center|bottom"
+                android:src="@drawable/logo_principal_curiosity" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/label_input_usuario"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:textColor="#fff" />
+
+            <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:background="#fff"
+                android:id="@+id/username"
+                android:paddingLeft="20sp"
+                android:paddingRight="20sp"
+                android:textSize="30sp"
+                android:textColor="#000" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/label_input_contraseña"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp"
+                android:textColor="#fff" />
+
+            <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:background="#fff"
+                android:id="@+id/password"
+                android:paddingLeft="20sp"
+                android:paddingRight="20sp"
+                android:textSize="30sp"
+                android:inputType="textPassword"
+                android:textColor="#000" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="@string/btn_entrar"
+                android:layout_marginTop="15dp"
+                android:textColor="#fff"
+                android:id="@+id/entrar"
+                android:textSize="20sp"
+                android:background="#30c642" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="@string/btn_salir"
+                android:layout_marginTop="15dp"
+                android:textColor="#fff"
+                android:id="@+id/salir"
+                android:textSize="20sp"
+                android:background="#dc5e34" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
